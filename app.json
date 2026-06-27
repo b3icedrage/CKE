@@ -11,6 +11,11 @@
     "android": {
       "package": "com.b3icedrage.cke",
       "versionCode": 1
+    },
+    "extra": {
+      "eas": {
+        "projectId": "133a5413-2325-400c-9af0-19be8b561324"
+      }
     }
   }
 }
