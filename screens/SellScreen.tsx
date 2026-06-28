@@ -1,9 +1,9 @@
 import { View, Text } from "react-native";
 
-export default function SearchScreen() {
+export default function SellScreen() {
   return (
     <View style={{ flex:1, justifyContent:"center", alignItems:"center" }}>
-      <Text>🔍 Search</Text>
+      <Text>🛍 Sell</Text>
     </View>
   );
 }
